@@ -10,4 +10,11 @@ Below is what the webpage looks like—again, just using R-Studio.  Shiny also w
 &nbsp;
 
 ![interface](https://github.com/programweb/R-R_Studio-Shiny-Differential-Gene-Expression/assets/12736699/9e9dac1f-4da0-4390-ac60-e169db5b38b7)
+&nbsp;
+
+There were various genes available in the dropdown menu:
+&nbsp;
+
+![Screen Shot 2023-12-06 at 5 56 11 PM](https://github.com/programweb/R-R_Studio-Shiny-Differential-Gene-Expression/assets/12736699/3bfa7860-e76f-40c9-aefc-25f1338ecda0)
+&nbsp;
 
